@@ -205,3 +205,39 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+# ============================================
+# NTUA THESIS SPECIFIC PATTERNS
+# ============================================
+
+# Data files (CRITICAL - prevents huge dataset uploads)
+*.csv
+*.json
+*.parquet
+*.h5
+*.hdf5
+data/raw/
+data/processed/
+datasets/
+embeddings/
+
+# FAISS indexes (can be very large!)
+*.index
+*.faiss
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.secret
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+temp/
