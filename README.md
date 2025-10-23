@@ -12,7 +12,7 @@ NTUA Diploma Thesis: Vector Similarity Search Algorithms using FAISS
 - **Course:** Προχωρημένα Θέματα Βάσεων Δεδομένων (Advanced Database Topics)
 - **Supervisor:** Δημήτριος Τσουμάκος (Dimitrios Tsoumakos)
 - **Committee:** Γ. Γκούμας, Ν. Κοζύρης
-- **Academic Year:** 2024-2025
+- **Academic Year:** 2025-2026
 - **Students:** [Your Name], [Partner's Name]
 
 ### Project Description
