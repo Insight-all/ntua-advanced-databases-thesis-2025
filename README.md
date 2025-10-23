@@ -13,7 +13,7 @@ NTUA Diploma Thesis: Vector Similarity Search Algorithms using FAISS
 - **Supervisor:** Δημήτριος Τσουμάκος (Dimitrios Tsoumakos)
 - **Committee:** Γ. Γκούμας, Ν. Κοζύρης
 - **Academic Year:** 2025-2026
-- **Students:** [Your Name], [Partner's Name]
+- **Students:** [L.P Dili], [Partner's Name]
 
 ### Project Description
 This diploma thesis focuses on implementing and comparing state-of-the-art similarity search algorithms in Vector Databases using the FAISS library. The research includes performance evaluation across structured, semi-structured, and unstructured data types.
