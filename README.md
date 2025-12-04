@@ -1,5 +1,5 @@
 # ntua-advanced-databases-thesis-2025
-NTUA Diploma Thesis: Vector Similarity Search Algorithms using FAISS
+NTUA Thesis: Vector Similarity Search Algorithms using FAISS
 
 # Diploma Thesis: Implementation of State-of-the-Art Similarity Algorithms in Vector Databases
 
